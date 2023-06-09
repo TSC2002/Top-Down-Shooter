@@ -1,2 +1,1 @@
-# Top-Down-Shooter
-Este es el proyecto del Top-Down Shooter
+# Plataforma-2D
